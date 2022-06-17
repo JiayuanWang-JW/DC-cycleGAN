@@ -1,4 +1,4 @@
-# EvoT-CycleGAN-
+# TT-CycleGAN-
 
 ## Usage
 Train:
