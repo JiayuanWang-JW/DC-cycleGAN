@@ -1,4 +1,4 @@
-# TT-CycleGAN-
+# DC-CycleGAN-
 
 ## Usage
 Train:
