@@ -27,9 +27,9 @@ Then use "evaluate.ipynb" to calculate MAE, PSNR, and SSIM.
 
 ## Citation:
 If you use this code for your research, please cite our paper:
-@article{wang2022dc,
-  title={DC-cycleGAN: Bidirectional CT-to-MR Synthesis from Unpaired Data},
-  author={Wang, Jiayuan and Wu, QM and Pourpanah, Farhad},
-  journal={arXiv preprint arXiv:2211.01293},
-  year={2022}
-}
+> @article{wang2022dc,
+> <br>  title={DC-cycleGAN: Bidirectional CT-to-MR Synthesis from Unpaired Data},
+> <br>  author={Wang, Jiayuan and Wu, QM and Pourpanah, Farhad},
+> <br>  journal={arXiv preprint arXiv:2211.01293},
+> <br>  year={2022}
+> <br>}
