@@ -11,6 +11,8 @@ Train:
 ```
 python DC-CycleGAN.py --lambdaG=5 --date='time1' --dataset='100dataset'
 ```
+You can change "--date" to any name you want. We use time1 because we train each method five times. Then calculate the average as the final quantitative result.
+
 
 Test:
 
