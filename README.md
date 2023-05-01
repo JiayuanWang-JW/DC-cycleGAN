@@ -34,5 +34,3 @@ If you use this code for your research, please cite our paper:
 > <br>  year={2022}
 > <br>}
 
-## Reference
-The tensorflow implementation of CycleGAN: 
