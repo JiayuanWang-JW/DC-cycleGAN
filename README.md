@@ -33,3 +33,6 @@ If you use this code for your research, please cite our paper:
 > <br>  journal={arXiv preprint arXiv:2211.01293},
 > <br>  year={2022}
 > <br>}
+
+## Reference
+The tensorflow implementation of CycleGAN: 
