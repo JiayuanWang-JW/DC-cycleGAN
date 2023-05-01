@@ -24,3 +24,12 @@ Test:
 Please follows "test_image.ipynb" annotation to run, you should change the path to yours.
 
 Then use "evaluate.ipynb" to calculate MAE, PSNR, and SSIM.
+
+## Citation:
+If you use this code for your research, please cite our paper:
+@article{wang2022dc,
+  title={DC-cycleGAN: Bidirectional CT-to-MR Synthesis from Unpaired Data},
+  author={Wang, Jiayuan and Wu, QM and Pourpanah, Farhad},
+  journal={arXiv preprint arXiv:2211.01293},
+  year={2022}
+}
