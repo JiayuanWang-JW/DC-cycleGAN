@@ -27,10 +27,12 @@ Then use "evaluate.ipynb" to calculate MAE, PSNR, and SSIM.
 
 ## Citation:
 If you use this code for your research, please cite our paper:
-> @article{wang2022dc,
-> <br>  title={DC-cycleGAN: Bidirectional CT-to-MR Synthesis from Unpaired Data},
-> <br>  author={Wang, Jiayuan and Wu, QM and Pourpanah, Farhad},
-> <br>  journal={arXiv preprint arXiv:2211.01293},
-> <br>  year={2022}
-> <br>}
+> @article{wang2023dc,
+> <br>  title={DC-cycleGAN: Bidirectional CT-to-MR synthesis from unpaired data},
+> <br>  author={Wang, Jiayuan and Wu, QM Jonathan and Pourpanah, Farhad},
+> <br>  journal={Computerized Medical Imaging and Graphics},
+> <br>  pages={102249},
+> <br>  year={2023},
+> <br>  publisher={Elsevier}
+}
 
