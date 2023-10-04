@@ -7,6 +7,7 @@
 
 
 ## Installation
+Please use Python 3.6
 ```
 pip3 install -r requirements.txt
 ```
