@@ -104,7 +104,7 @@ def main():
         opt['use_linear_decay'] = True
     opt['decay_epoch'] = FLAGS.decay  # The epoch where the linear decay of the learning rates start
     opt['use_patchgan'] = True  # PatchGAN - if false the discriminator learning rate should be decreased
-    opt['use_resize_convolution'] = False  # Resize convolution - instead of transpose convolution in deconvolution layers (uk) - can reduce checkerboard artifacts but the blurring might affect the cycle-consistency
+    opt['use_resize_convolution'] = True  # Resize convolution - instead of transpose convolution in deconvolution layers (uk) - can reduce checkerboard artifacts but the blurring might affect the cycle-consistency
     opt['discriminator_sigmoid'] = False  # Add a final sigmoid activation to the discriminator
 
     # Tweaks
