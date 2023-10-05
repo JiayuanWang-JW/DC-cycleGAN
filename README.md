@@ -21,13 +21,19 @@ You can change "--date" to any name you want. We use time1 because we train each
 
 
 Test:
-
+```
 Please follows "test_image.ipynb" annotation to run, you should change the path to yours.
+When you test your model meet the problem about "alueError: Dimension 0 in both shapes must be equal, but are 3 and 128. Shapes are [3,3,128,64] and [128,64,3,3]."
+Please check the training code and test code setting for opt['use_resize_convolution'], they should be kept the same and then will work. 
+```
 
 Then use "evaluate.ipynb" to calculate MAE, PSNR, and SSIM.
 
+## Note
+I am really thanks for your interest in my work, if you have any problem with the code, please contact me or submit an issue, and I will reply to you if I can help you. 
+
 ## Citation:
-If you use this code for your research, please cite our paper:
+If you use this code for your research, please give us a star and cite our paper:
 > @article{wang2023dc,
 > <br>  title={DC-cycleGAN: Bidirectional CT-to-MR synthesis from unpaired data},
 > <br>  author={Wang, Jiayuan and Wu, QM Jonathan and Pourpanah, Farhad},
